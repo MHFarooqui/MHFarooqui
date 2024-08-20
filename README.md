@@ -8,5 +8,5 @@
 [![Hanif's github stats](https://github-readme-stats.vercel.app/api?username=MHFarooqui&theme=blue-green)](https://github.com/MHFarooqui/github-readme-stats)
 
 
-![Leetcode Stats](https://leetcode.card.workers.dev/hackerHANIF?theme=nord&font=source_code_pro&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/hackerHANIF?theme=forest&font=baloo&extension=null)
 
