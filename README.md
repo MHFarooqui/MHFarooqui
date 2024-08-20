@@ -7,4 +7,5 @@
 
 <br />
 [![Hanif's github stats](https://github-readme-stats.vercel.app/api?username=MHFarooqui&theme=blue-green)](https://github.com/MHFarooqui/github-readme-stats)
+<br />
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
