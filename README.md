@@ -5,7 +5,6 @@
 
 ![](https://www.codewars.com/users/Hhacker/badges/large)
 
-<br />
 ![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 <br />
 [![Hanif's github stats](https://github-readme-stats.vercel.app/api?username=MHFarooqui&theme=blue-green)](https://github.com/MHFarooqui/github-readme-stats)
